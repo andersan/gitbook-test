@@ -32,7 +32,7 @@ Hint inside a tab
 {% endtab %}
 {% endtabs %}
 
-{% page-ref page="new-page.md" %}
+{% page-ref page="./" %}
 
 {% embed url="https://vimeo.com/371751818" %}
 
@@ -137,9 +137,9 @@ code block
 second line of code
 ```
 
-![](../.gitbook/assets/brazil-primeira-missa.jpg)
+![](../../.gitbook/assets/brazil-primeira-missa.jpg)
 
-{% page-ref page="new-page.md" %}
+{% page-ref page="./" %}
 
 {% embed url="https://airdev1.typeform.com/to/avW0fQ" %}
 
