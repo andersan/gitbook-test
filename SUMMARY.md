@@ -8,4 +8,5 @@
   * [Test internal page](test-group/new-page/test-internal-page.md)
 * [Test page](test-group/test-page.md)
 * [Test page 2](test-group/untitled.md)
+* [test page not in any group](test-page-not-in-any-group.md)
 
